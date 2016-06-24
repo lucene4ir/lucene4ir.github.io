@@ -1,0 +1,6 @@
+{
+  "name": "Lucene4ir.GitHub.io",
+  "tagline": "",
+  "body": "### Lucene 4 Information Retrieval Evaluation\r\n\r\n\r\n### Background\r\nLucene and its expansions, Solr and ElasticSearch, represent the major open source Information Retrieval toolkits used in Industry. However, there is a lack of coherent and coordinated documentation that explains from an experimentalist’s point of view how to use Lucene to undertake and perform Information Retrieval Research, Development and Evaluation. In particularly, how to undertake and perform TREC based evaluations using Lucene.\r\n\r\nThe objective of this event is to bring together researchers and developers to create a set of evaluation resources showing how to use Lucene to perform typical IR operations (i.e. indexing, retrieval, etc.) as well as how to extend, modify and work with Lucene to extract typical statistics, implement typical retrieval models, and to evaluate various TREC tasks. Over the course of days, we essentially plan to have a hackathon to build these resources, share knowledge about the platform, and to create a road map for future development. The tools and resources built during the workshop/hackathon will be uploaded to GitHub and shared with the community. \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
